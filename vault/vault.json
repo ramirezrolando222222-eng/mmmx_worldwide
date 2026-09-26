@@ -1,0 +1,24 @@
+{
+  "app_meta": {
+    "app_name": "MMMX (Money Making Mission Explosive)",
+    "version": "2.0.0-GLOBAL",
+    "owner": "Rolando H Ramirez Jr",
+    "status": "ACTIVE_GLOBAL"
+  },
+  "global_config": {
+    "supported_regions": [
+      "NA-EAST",
+      "NA-WEST",
+      "LATAM-SOUTH",
+      "EU-WEST",
+      "APAC-EAST"
+    ],
+    "revenue_pipelines": [
+      "LEAD_SCORE",
+      "AGENT_SUPPORT",
+      "CONTENT_ENGINE",
+      "INVOICE_PARSER",
+      "SYSTEM_EXECUTION"
+    ]
+  }
+}
